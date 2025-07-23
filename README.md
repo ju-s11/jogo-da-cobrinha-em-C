@@ -16,7 +16,7 @@ Repositório no GitHub - https://github.com/nir9/welcome/tree/master/lnx/minimal
 
 ## Como compilar e executar o programa
 
-# Compilação
+### Compilação
 
 gcc <nome do arquivo>.c -o <nome do executável> -lncurses
 
@@ -24,7 +24,7 @@ Exemplo:
 
 gcc jogo-da-cobrinha.c -o cobrinha -lncurses
 
-# Execução
+### Execução
 
 ./<nome do executável>
 
