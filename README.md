@@ -78,7 +78,7 @@ O jogo original - que pode ser encontrado no link: https://github.com/nir9/welco
 
 ## Adições feitas por mim
 
-No código original, a cobrinha não cresce ao comer a comidas, não há uma demarcação da área do jogo (o terminal inteiro se torna a área jogável), a cobrinha não morre ao bater nas laterais do terminal ou ao sair da parte visível do terminal, não há a exibição da pontuação do jogador e não há tela de GAME OVER. Todos esses features foram adicionados por mim, após assistir e reproduzir o código original. Também, adicionei uma animação de GAME OVER e a opção de recomeçar o jogo ao clicar na tecla 'r' ou 'R', sem precisar executar novamente o programa.
+No código original, a cobrinha não cresce ao comer as comidas, não há uma demarcação da área do jogo, a cobrinha não morre ao bater nas laterais do terminal ou ao sair da parte visível do terminal, não há a exibição da pontuação do jogador e não há tela de GAME OVER. Todos esses features foram adicionados por mim, após assistir o vídeo e reproduzir o código original. Também, adicionei uma animação de GAME OVER e a opção de recomeçar o jogo ao clicar na tecla 'r' ou 'R', sem precisar executar novamente o programa.
 
 --------- colocar vídeo da gameplay do meu joguinho ---------
 
