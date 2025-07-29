@@ -73,8 +73,7 @@ São definidas as variáveis posX e posY para definir a posição da cobrinha na
 
 O jogo original - que pode ser encontrado no link: https://github.com/nir9/welcome/tree/master/lnx/minimalist-snake-game ou no arquivo jogo-dacobrinha-simplificado.c deste repositório - é bem simples, nele podemos apenas mover um '*' (que representa a cobrinha) e comer as comidas que aparecem de maneira semi-aleatória no terminal. O terminal inteiro se torna a área jogável e a cobrinha pode até sair da parte visível pelo usuário do terminal.
 
---------- colocar vídeo da gameplay do joguinho original ---------
-
+https://github.com/user-attachments/assets/74031376-982e-4444-83cf-d4fcce621d23
 
 ## Adições feitas por mim
 
